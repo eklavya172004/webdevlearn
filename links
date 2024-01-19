@@ -1,0 +1,139 @@
+<!DOCTYPE HTML>
+    <html>
+        <head>
+            <title>LINKS Generics</title>
+                </head>
+                    <body>
+                        <header>
+                            <nav>
+                                <ul>
+                                    <li><a href ="advanced.html">HOME</a></li>   
+                                    <li><a href="advanced.html">STORE</a></li> 
+                                    <li><a href="advanced.html">ABOUT</a></li>
+                                </ul>
+                            </nav>
+                        <hr>
+                        <h1>THE GENERICS</h1>
+                    </header>
+                
+                    <section>
+                   <h2>MUSIC</h2> 
+                        <div>
+                            <div>
+                                <strong>ALBUM 1</strong>
+                                    </div>
+                                <img src="images/Album 1.png">
+                            </div>
+                        <span>$10.99</span>
+                        <button type="button">ADD TO CART</button>
+
+                        <div>
+                            <div>
+                                <strong>ALBUM 2</strong>
+                                    </div>
+                                <img src="images/Album 2.png">
+                            </div>
+                        <span>$12.99</span>
+                        <button type="button">ADD TO CART</button>
+                        
+                        <div>
+                            <div>
+                                <strong>ALBUM 3</strong>
+                                    </div>
+                                <img src="images/Album 3.png">
+                            </div>
+                        <span>$11</span>
+                        <button type="button">ADD TO CART</button>
+
+                        <div>
+                            <div>
+                                <strong>ALBUM 4</strong>
+                                    </div>
+                                <img src="images/Album 4.png">
+                            </div>
+                        <span>$13.99</span>
+                        <button type="button">ADD TO CART</button>
+                    </section>
+                
+                    <section>
+                    <h3>MECH</h3>
+                    <div>
+                        <div>
+                            <strong>ALBUM 1<strong>
+                            <img src="images/Shirt.png">
+                        </div>
+                    <span>$15.99</span>
+                    <button type="button">ADD TO CART</button>
+
+                    <div>
+                        <div>
+                            <strong>ALBUM 2</strong>
+                                </div>
+                            <img src="images/Cofee.png">
+                        </div>
+                    <span>$16.99</span>
+                    <button type="button">ADD TO CART</button>
+                    
+                </section>
+                            
+                    <section>
+                        <h4>CART</h4>
+                        <div>
+                                <strong>ITEM</strong>
+                                &lt;&gt;
+                                <strong>PRICE</strong>
+                                &lt;&gt;
+                                <strong>QUANTITY</strong>
+                        </div>
+                            <div>
+                                <img src ="images/Shirt.png" width="100">
+                                <span>T-shirt</span>
+                                &lt;&gt;
+                                <span>$12.99</span>
+                                &lt;&gt;
+                                <input type="number" value="1">
+                                <button type="button">REMOVE</button>
+                                </div>
+
+                                
+                                <div>
+                                <img src ="images/Cofee.png" width="100">
+                                <span>Album2</span>
+                                &lt;&gt;
+                                <span>$12.99</span>
+                                &lt;&gt;
+                                <input type="number" value="2">
+                                <button type="button">REMOVE</button>
+                                </div>
+                        </section>
+                        <hr>
+                    <div>
+                        <strong>TOTAL</strong>
+                        <span>$45.99</span>
+                    </div>
+                    
+                    <button type="button">PURCHASE</button>
+
+                <footer>
+                        <h5>THE GENERICS</h5>
+                    <ul>
+                        <li><a href="https//youtube.com" target="blank">
+                            <img src="images/YouTube Logo.png">
+                        </a>
+                        </li>
+
+                        <li><a href="https://open.spotify.com/?" target="blank">
+                            <img src="images/Spotify Logo.png">
+                            </a>
+                            </li>
+
+                        <li><a href="https://www.facebook.com/" target="blank">
+                            <img src="images/Facebook Logo.png">
+                            </a>
+                            </li>
+                    </ul>
+                </footer>
+            </body>
+        </html>
+
+
